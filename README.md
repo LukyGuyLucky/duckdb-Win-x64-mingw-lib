@@ -1,1 +1,1 @@
-# duckdb-Win-mingw-x64lib
+# duckdb-Win-mingw-x64-lib
